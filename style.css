@@ -10,6 +10,9 @@ h1 {
     margin-bottom: 30px;
     color: orangered; /* Make the header visible on a black background */
 }
+h3{
+    color:white;
+}
 
 /* Styling for the card container */
 .card {
@@ -18,7 +21,7 @@ h1 {
     box-shadow: 0px 4px 20px rgba(255, 69, 0, 0.5); /* More pronounced shadow */
     padding: 20px;
     margin: 0 auto;
-    width: 60%;
+    width: 90%;
     text-align: left;
 }
 
