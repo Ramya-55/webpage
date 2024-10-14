@@ -19,7 +19,7 @@ h1 {
 
 /* Carousel Styles */
 .carousel {
-    width: 50%;
+    width: 60%;
     margin: 20px auto;
     position: relative;
     overflow: hidden;
@@ -123,4 +123,7 @@ h2{
 }
 ul{
     color: white;
+}
+h2:hover{
+    color:black;
 }
